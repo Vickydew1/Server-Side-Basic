@@ -14,5 +14,8 @@
     "mongoose": "^5.1.7",
     "mongoose-currency": "^0.2.0",
     "morgan": "~1.9.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
   }
 }
